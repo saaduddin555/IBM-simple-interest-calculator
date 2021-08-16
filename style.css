@@ -1,0 +1,32 @@
+body {
+    background-color: #000;
+    font-family: arial, sans-serif;
+    color: #FFF;
+}
+
+h1{
+    color: rgb(146, 15, 15);
+    font-family: verdana, sans-serif;
+}
+
+.maindiv {
+    background-color: rgb(17, 17, 17);
+    color: rgb(185, 134, 134);
+    width: 500px;
+    padding: 20px;
+    border-radius: 25px;
+    margin: auto;
+}
+
+#information_form {
+    margin-left: 85px;
+}
+
+.result_number {
+    background-color: #FF0;
+}
+
+#rate_val {
+    border: none;
+    width: 50px;
+}
